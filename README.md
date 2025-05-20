@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sarosh Ahmed</h1>
 <p align="center">
-  Full Stack Developer | React & MERN Stack Specialist | Karachi
+  Full Stack Developer | React & MERN Developer | Karachi
 </p>
 
 ---
@@ -24,7 +24,7 @@ Building scalable, performant web applications that solve real-world problems wi
 
 **Frontend:** React.js • Next.js • Redux • TypeScript • Tailwind CSS • HTML5 • CSS3  
 **Backend:** Node.js • Express.js • MongoDB • REST APIs  
-**Tools & DevOps:** Git • GitHub • Docker • Postman • Vercel • GitHub Actions
+**Tools & DevOps:** Git • GitHub • AWS • Postman • Vercel • GitHub Actions
 
 ---
 
@@ -32,7 +32,8 @@ Building scalable, performant web applications that solve real-world problems wi
 
 - Advanced system design concepts  
 - AI & Machine Learning fundamentals  
-- Performance optimization & scalable architecture  
+- Performance optimization & scalable architecture
+- Behavioral Psychology and its implementation in AI models 
 
 ---
 
